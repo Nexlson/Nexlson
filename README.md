@@ -1,7 +1,8 @@
 ![Header](resources/codes.jpg "Header")
 <br/>
 
-# Hi there 👋
+### Hi there 👋, 
+### I am a life long learner on technology. I have passions on coding, electronics and other cool stuffs.  
 
 <br/>
 
@@ -24,7 +25,7 @@
 <br/>
 
 # :writing_hand: Writtings 
-I started to write blogs on Medium for learning purporse. Take a look here
+I started to write blogs on Medium for learning purporse. Take a look [here](https://medium.com/@nelsonchoon)
 
 <br/>
 
