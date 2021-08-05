@@ -30,7 +30,7 @@ I started to write blogs on Medium for learning purporse. Take a look [here](htt
 <br/>
 
 # Social Media
-<p align='center'>
+<p align='left'>
 <a href="https://www.linkedin.com/in/nelson-choon-jiin-hao-b6092013b/"><img src="resources/linkedIn.jpg" alt="Linkedln" width="50" height="50"></a>&nbsp;&nbsp
 <a href="https://medium.com/@nelsonchoon"><img src="resources/medium.jpg" alt="Medium" width="50" height="50"></a>&nbsp;&nbsp
 <a href=""><img src="resources/portfolio.jpg" alt="Portfolo" width="50" height="50"></a>&nbsp;&nbsp
