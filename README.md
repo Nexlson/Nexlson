@@ -1,7 +1,7 @@
 ![Header](resources/codes.jpg "Header")
 <br/>
 
-### Hi there 👋, 
+### Hi there 👋
 ### I am a life long learner on technology. I have passions on coding, electronics and other cool stuffs.  
 
 <br/>
