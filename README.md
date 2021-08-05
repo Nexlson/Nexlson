@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Tech Stacks
 
+### :bar_chart: Github Stats
 [![Nexlson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nexlson&show_icons=true&theme=dark)
 
-:writing_hand: Notes and Writtings 
+### :writing_hand: Notes and Writtings 
